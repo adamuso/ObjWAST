@@ -1,0 +1,1 @@
+node_modules/.bin/wasmc -i src/main.wat -o bin/main.wasm
